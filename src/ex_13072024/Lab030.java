@@ -6,6 +6,9 @@ public class Lab030 {
 
         int age = 65;
       //  double age= 45;
+        // Local - with in method
+
+
 
     }
 }
