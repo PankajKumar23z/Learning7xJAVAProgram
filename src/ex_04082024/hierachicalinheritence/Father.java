@@ -1,0 +1,10 @@
+package ex_04082024.hierachicalinheritence;
+
+public class Father {
+
+        void home() {
+            System.out.println("3BHK");
+
+
+        }
+}
